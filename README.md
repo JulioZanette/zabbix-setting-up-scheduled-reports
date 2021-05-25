@@ -1,0 +1,1 @@
+# zabbix-setuping-up-scheduled-reports
